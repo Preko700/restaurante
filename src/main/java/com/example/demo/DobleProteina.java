@@ -1,3 +1,4 @@
+package com.example.demo;
 public class DobleProteina extends AdicionalDecorator {
     public DobleProteina(Sandwich sandwich) {
         super(sandwich);

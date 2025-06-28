@@ -1,3 +1,4 @@
+package com.example.demo;
 // Decoradores concretos - Adicionales
 public class Aguacate extends AdicionalDecorator {
     public Aguacate(Sandwich sandwich) {

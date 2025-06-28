@@ -1,3 +1,4 @@
+package com.example.demo;
 public class Sopa extends AdicionalDecorator {
     public Sopa(Sandwich sandwich) {
         super(sandwich);

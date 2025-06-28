@@ -1,3 +1,4 @@
+package com.example.demo;
 public class Postre extends AdicionalDecorator {
     public Postre(Sandwich sandwich) {
         super(sandwich);

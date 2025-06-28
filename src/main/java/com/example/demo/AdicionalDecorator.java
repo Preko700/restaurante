@@ -1,3 +1,4 @@
+package com.example.demo;
 // Decorator base
 public abstract class AdicionalDecorator extends Sandwich {
     protected Sandwich sandwich;

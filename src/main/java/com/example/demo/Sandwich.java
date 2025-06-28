@@ -1,3 +1,4 @@
+package com.example.demo;
 // Componente base
 public abstract class Sandwich {
     protected String nombre;

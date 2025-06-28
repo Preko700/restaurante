@@ -1,3 +1,4 @@
+package com.example.demo;
 public class SandwichPollo extends Sandwich {
     public SandwichPollo(int tamaño) {
         this.nombre = "Pollo";

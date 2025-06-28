@@ -1,12 +1,13 @@
-public class SandwichPavo extends Sandwich {
-    public SandwichPavo(int tamaño) {
-        this.nombre = "Pavo";
+package com.example.demo;
+public class SandwichBeef extends Sandwich {
+    public SandwichBeef(int tamaño) {
+        this.nombre = "Beef";
         this.tamaño = tamaño;
     }
     
     @Override
     public double getPrecio() {
-        return tamaño == 15 ? 12.0 : 16.0;
+        return tamaño == 15 ? 14.0 : 18.0;
     }
     
     @Override
